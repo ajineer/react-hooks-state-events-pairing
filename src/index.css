@@ -10,3 +10,12 @@ body {
 .App {
   text-align: center;
 }
+
+.hidden{
+  display: none;
+}
+
+.line{
+  width: 90vw;
+  border-top: .5rem solid black;
+}
